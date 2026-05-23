@@ -1,0 +1,11 @@
+# APIForge-CLI
+# Zero dependencies - Pure Python 3.7+
+# This file is for optional development dependencies only
+
+# Optional: For enhanced terminal experience
+# readline; platform_system!='Windows'
+
+# Development dependencies (not required for runtime)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
